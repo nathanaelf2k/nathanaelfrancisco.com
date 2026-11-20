@@ -216,6 +216,10 @@ def nettoyer_source(corps, opts=None):
         lignes.append(ligne)
     corps = "\n".join(lignes)
     corps = re.sub(r"  \n(?=[a-zà-ÿ(«“\"])", " ", corps)  # retours à la ligne forcés au milieu des phrases
+    corps = re.sub(r"(?m)^\s*---\s*$", "", corps)  # les bandeaux de titres remplacent les filets
+    corps = re.sub(r"(?m)^(\*{2,3})([^*\n]{3,70}?)\1\s*$",
+                   lambda m: m.group(0) if m.group(2).rstrip().endswith((".", ",", ";", "!", ":")) else "### " + casse_phrase(m.group(2).strip()), corps)
+    corps = re.sub(r"(?m)^((?:[\U0001F300-\U0001FAFF\u2600-\u27BF]\ufe0f?)\s+[^\n.!:;]{3,60})$", r"### \1", corps)
     corps = re.sub(r"\[\[VIDEO:([^\]]+)\]\]", lambda m: video_html(m.group(1)), corps)
     corps = re.sub(r"\]\(([^)\s]+)\)", lambda m: "](" + adresse_lien(m.group(1)) + ")", corps)
     corps = re.sub(r"\(/images/", "(../images/", corps)
