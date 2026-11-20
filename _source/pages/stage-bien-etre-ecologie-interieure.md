@@ -229,3 +229,345 @@ son savoir cachés.
 Je reprends certaines de ses pratiques fondamentales et j'ai ajouté bien d'autres outils et pratiques de guérison, de coaching. La dimension que j'offre est clairement psycho-corporelle avec un fort accent sur le bien-être du corps, en lien avec celui de l'esprit.
 
 **Qui suis-je ?**
+
+![](../images/67c72e044f00b_0.ProfilePicNathanael.jpg)
+
+Je m'appelle **Nathanaël Francisco**, je suis né en 1987. Je suis aussi papa 😁.
+
+*J'accompagne les personnes en tension (douleur, émotion difficile, blocage) à se libérer et à aimer la vie avec la* ***thérapie psycho-corporelle****, le* ***coaching profond,*** *le* ***massage / bodywork*** *et les* ***pratiques de bien-être****. Je fais des* ***accompagnements individuels et collectifs****.*
+
+Ma raison d'être : **ce qui me parle le plus** dans cette expérience riche et intense d'être vivant, c'est justement de **célébrer le vivant** avec ses ombres et ses lumières.
+
+J'ai passé beaucoup de temps ces dernières années à plonger dans mon **écologie intérieure**.
+
+J'ai trouvé des **pratiques simples et efficaces** qui m'ont vraiment aider à mettre du sens sur les **émotions** que je vis et à pouvoir les traverser avec plus de **fluidité**. J'ai aussi appris (et j'apprends encore), à développer mes **ressources** pour apaiser mon **système nerveux** et aborder la vie depuis un endroit + **pacifié** à l'intérieur de moi (les épaules détendues, la respiration apaisée) et avec **optimisme et confiance**.
+
+Pour être plus **présent** à moi même, aux autres et à ce qui m'entoure.
+
+**Vivant**.
+
+*PS : Ah oui, par le passé j'ai fait une grande école de commerce (oui oui !) et j'ai aussi bossé dans le secteur de la Solidarité Internationale et de l'Économie Sociale et Solidaire. Tout un chemin pour trouver du sens et partager qui je suis !*
+
+**Accès au réseau d’entraide émotionnelle**
+
+Participer à un de mes stages d’écologie intérieure, c’est **accéder à un groupe d’entraide émotionnelle** avec les outils de l’écologie intérieure. Toute personne ayant déjà participé à un stage peut rejoindre le groupe. Les membre connaissent donc les outils de l’Alchimie Émotionnelle comme la transmutation directe ou le scénario de guérison.
+
+Vous pouvez **solliciter les autres membres pour organiser un échange** et ainsi bénéficier d’une séance d’[alchimie émotionnelle](https://www.soulbodypoem.fr/alchimie-emotionnelle)**sans contrepartie financière**.
+
+[RECEVOIR LES DATES & INFOS DES PROCHAINS STAGES](#row-1f461f8c)
+
+**Témoignages des participants aux stages précédents**
+
+![](../images/5dcedd1ad5420_images2.png)
+
+**Stage à faire de toute urgence pour quiconque veut faire des pas de géant dans sa vie relationnelle.**
+
+Gratitude et joie infinie pour tout ce que j’ai vécu durant ce week-end. Ce fut une mine d’informations, claires, amenées avec beaucoup de pédagogie, de jeux, de rires et de joie… On rentre dans ce stage comme dans la caverne d’Ali Baba, et on découvre ensemble, un à un, les outils puissants, parlants et variés que Nathanaël a glanés au fil de ses expériences à travers le monde. Un être passionné qui m’a laissée bouche bée devant sa connaissance des sujets abordés et le recul qu’il a déjà dessus. Comme quoi, parfois, la sagesse n’attend pas le nombre des années.
+
+Un stage comme un condensé de ce qu’on aurait dû apprendre à l’école, pour savoir transformer nos émotions en cadeaux pour grandir !!
+
+En tout cas, pour moi, ce stage, c’est le plus beau cadeau que je me sois fait ces dernières années (…après avoir pratiqué l’hypnose, l’EMDR, la sophro, une école de développement personnel, de la psy, la CNV… lu des tas de bouquins passionnants sur ces sujets… Mais là, ça a dépassé toutes mes attentes).
+
+Depuis, je me réjouis de voir chaque jour tout ce que ça change pour moi d’avoir reçu ces outils/méthodes/astuces toutes simples. J’observe mes attitudes, mes relations, qui sont naturellement différentes !! J’ai changé d’angle de vue : tout ce qui m’arrive est devenu une chance d’évoluer, et je m’en réjouis. Car depuis le stage chez Nathanaël, j’ai des outils ultra puissants pour transformer mes/les émotions négatives en or en moins de temps qu’il n’en faut pour les vivre.
+
+Les émotions sont devenues un terrain de jeu, d’expérimentation, de compréhension de ma vie et de celle des autres… Et je joue à ce jeu avec la même joie qu’un enfant qui redécouvre le monde.
+
+J’espère que ce petit témoignage aidera d’autres personnes à se décider à sauter le pas, c’est un cadeau qu’elles se font !!
+
+**Francine (Lyon)**
+
+![](../images/5dcedd71685e4_images1.png)
+
+**Nathanaël, sincèrement merci pour ce merveilleux temps de qualité lors de ce week-end de stage d’écologie intérieure.**
+
+Qu’est-ce que ça fait du bien de se connecter à ce niveau d’authenticité, de partage d’émotions riches et de présences bienveillantes. J’en ressors avec de chouettes outils que j’ai hâte de (continuer à) mettre en pratique, ainsi qu’une âme profondément nourrie et rechargée.
+
+Un vrai moment de reconnexion à soi, à son monde intérieur et à plus… Merci pour cette belle opportunité que tu nous as offerte.
+
+**Stéphanie (Bruxelles)**
+
+![](../images/5dcedd554cc58_guillemets-de-tmoignage-1.png)
+
+**Le stage de guérison et d’écologie intérieure proposé par Nathanaël a été bouleversant pour moi.**
+
+J’ai pu expérimenter, au sein d’un groupe, différentes couleurs d’expérience et m’accueillir dans toute ma diversité et, à la fois, mon unité. Je me suis sentie déconditionnée, accueillant et prenant soin en toute confiance de toutes les émotions qui se présentent à moi.
+
+J’ai rencontré mon sage intérieur, si précieux pour me guider et me protéger aujourd’hui. J’ai vécu la pleine présence lors d’un scénario de guérison intérieure, quand tout est là, plus large, englobant tout, vivant le tout…
+
+La joie est omniprésente, la bienveillance, l’accueil, le partage, le sourire du cœur… Dans mon quotidien, ce sont de précieuses ressources disponibles. Elles me soutiennent et je les partage avec mes proches.
+
+Une à une, mes étoiles intérieures scintillent !!!
+
+Une immense gratitude !!! 🌳💚🌳
+
+**Isabelle (Lyon)**
+
+![](../images/5dcedd554cc58_guillemets-de-tmoignage-1.png)
+
+**En venant au stage d’écologie intérieure, je ne savais pas bien à quoi m’attendre avec cet intitulé mystérieux.**
+
+Assez rapidement, j’ai compris qu’il y avait vraiment une notion de retour à soi, avec un travail d’acceptation et d’épuration de ses émotions afin de se retrouver de manière authentique. Je suis passée par tous les états possibles : du mal de tête à la joie, de la méditation à la danse, des pleurs à la libération… Il paraît même que j’ai eu un orgasme cosmique (il fallait quand même que je le mentionne celui-là) !
+
+Ce que je retiens de ce stage, c’est aussi les rencontres. En seulement deux jours, de vrais liens se tissent entre les participants et donnent d’authentiques moments de partage. Nathanaël nous apprend, avec générosité et soutien, des techniques de mieux-être, de compréhension et d’acceptation de soi, techniques que j’utilise maintenant dans ma vie de tous les jours.
+
+Si vous êtes appelés par ce stage d’écologie intérieure, ce n’est pas un hasard, alors foncez !
+
+**Marianne (Drôme)**
+
+![](../images/5dcedd1ad5420_images2.png)
+
+(…) Pour  la première fois en 7 ans , je suis allé au cimetière. J'ai pleuré, mais j'étais avec mon fils, et je n'avais pas la boule au ventre.
+
+Merci à vous d'être ce que vous êtes.
+
+**Laetitia (Drôme)**
+
+![](../images/5dcedd71685e4_images1.png)
+
+Un weekend riche en émotions, riche en rencontres et riche en introspection.
+Grâce a des outils sur l’écologie intérieur Nathanaël nous guide vers notre nous intérieur.
+On repart avec des clés pour se connaitre davantage et savoir se reconnecter à ce qui nous fait du bien.
+Le lieu et son ambiance sont propices à une atmosphère chaleureuse et conviviale à la
+
+façon colonie de vacances.
+Un stage qui m’a fait du bien, un peu déconnecté de toute réalité.
+
+**Orlanne (Drôme)**
+
+## **DATES • LIEU DES STAGES • PRIX**
+
+### **DATES**
+
+Les prochains stages de **L'ANNÉE 2026** sont en  
+  
+**MARS**  
+**AVRIL**  
+**MAI**  
+**JUIN**
+
+Inscris toi au formulaire ci-dessous pour recevoir les dates exactes.
+
+[RECEVOIR LES DATES & INFOS DES PROCHAINS STAGES](#row-1f461f8c)
+
+**ADRESSE**
+
+Au **Château Pergaud, 5051 allée de Pergaud, 26400 Allex**
+
+[**Clique ici pour ouvrir ce lieu dans Google Maps.**](https://maps.app.goo.gl/bwpFVRnQwMLCygNp9)
+
+Le cadre est enchanteur, **la nature est environnante**, la rivière Drôme est accessible en 10 minutes à pieds…
+
+Le Château Pergaud est un lieu d'accueil mais c'est d'abord un lieu de vie en collectif. Participer au stage, c’est aussi découvrir ce merveilleux **habitat participatif et intergénérationnel**. Plus d’infos : [lepeRgo.org](https://lepergo.org/)
+
+**TARIF**
+
+**Animation du stage : 220 €**
+
+(170€ pour les stagiaires qui reviennent)
+
+**+ Frais décomposés comme suit :**
+
+**• Hébergement possible** : me contacter pour les détails.
+
+**• Repas :**
+
+12 € / repas
+
+3€ / petit-déjeuner
+
+### **MODALITÉS D'INSCRIPTION**
+
+• Groupe volontairement limité à **12 personnes**  
+• Les inscriptions se font sur la base d’un **acompte**  
+• Une **politique d’annulation claire et humaine** est prévue
+
+[RECEVOIR LES DATES & INFOS DES PROCHAINS STAGES](#row-1f461f8c)
+
+**Pourquoi j'organise ce stage ?**
+
+J'ai passé les 7 dernières années à explorer des outils de mieux-être et de guérison pour prendre soin de moi, de mon corps, de mes émotions et de ma relation à moi et aux autres. **Ce stage peux t'aider si tu te poses toi aussi quelques-unes de ces questions :**
+
+### 🌱 **Émotions & Guérison intérieure**
+
+* Que faire de mes émotions ?
+
+* Comment libérer ces émotions qui me traversent si fort ?
+
+* Pourqui suis-je parfois si stressé ?
+
+* Pourquoi suis-je déprimé ?
+
+* Est-ce qu'il y a des cycles dans mes moments de dépression ?
+
+* Comment guérir mes blessures ?
+
+* Comment arrêter de vivre les mêmes schémas ?
+* Est-ce que j'ai vécu des traumas d'enfance auxquels je n'ai pas accès ?
+
+* Comment pardonner à mes parents ?
+
+* Comment accueillir et aimer mes parents ?
+
+* Comment accueillir et aimer ce qui m'arrive ?
+
+* Est-ce que je ne m'écoute pas assez ?
+
+* Est-ce que je m'écoute trop ?
+
+### 🌟 **Alignement, mission & vocation**
+
+* Quel est mon talent unique ?
+
+* Qu’est-ce que je peux offrir au monde ?
+
+* Quel métier faire ?
+
+* Comment vivre de ce que j’aime faire ?
+
+* Quelles sont mes valeurs ?
+
+* Qu’est-ce que c’est que des valeurs ?
+
+* Comment m’améliorer et offrir la meilleure version de moi-même ?
+
+### 💆‍♂️ **Corps, posture & bien-être physique**
+
+* Comment ouvrir mon corps, corriger ma posture, me tenir droit ?
+
+* Comment libérer mes douleurs physiques et psychiques ?
+
+* Comment respirer mieux, plus librement ?
+
+* Comment donner un bon massage ?
+
+* Comment recevoir un bon massage ?
+
+* Comment prendre soin de moi ?
+
+### **💖 Amour de soi & Relation à soi**
+
+* Comment me sentir mieux ?
+
+* Comment m’aimer plus ?
+
+* Comment m’aimer mieux ?
+
+* Qu’est-ce que ça veut dire aimer ?
+
+* Qu’est-ce que ça veut dire s’aimer ?
+
+* Comment être en lien avec moi-même et avec les autres ?
+
+* Comment me sentir plus souple dans mon corps et dans mon esprit ?
+
+* Comment accueillir avec plus de joie ce qui m'arrive ?
+
+* Comment développer le muscle de ma gratitude ?
+
+* Comment ressentir de la gratitude pour ce que je vis ?
+
+### 💬 **Relations & communication**
+
+* Comment entrer en lien plus en profondeur, avec plus d’authenticité avec les autres ?
+
+* Comment demander ce dont j’ai besoin ?
+
+* Comment me sentir libre tout en étant en lien ?
+
+* Comment cultiver des relations nourrissantes et authentiques ?
+
+* Comment accueillir les émotions de l'autre sans me perdre ?
+
+* Comment dire non sans culpabiliser ?
+
+* Comment créer de l'intimité sans fusionner ?
+
+* Comment être moi-même dans mes relations, sans jouer un rôle ?
+
+🔮 **Spiritualité & intuition**
+
+* Y a-t-il une force qui nous guide ?
+
+* Comment me mettre à l’écoute de cette force ?
+
+* C’est quoi l’intuition ?
+
+* Quand et comment faire confiance à mon intuition ?
+
+* Comment savoir si c’est l’intuition ou mon mental qui parle ?
+
+* Comment ouvrir mon cœur ?
+
+* Comment me laisser aller et faire confiance à mes ressentis ?
+
+Les réponses continuent de venir à moi, elle s'affinent. Les questions sont encore là mais mais pour l'instant, il me semble déjà avoir trouvé quelques pistes intéressantes, une philosophie de vie et d'être, **des outils et des espaces** qui me permettent d'être **+ à l'écoute**, **+ attentif**, **+ présent**, **+ vivant**, **+ respectueux** de ce qui se passe **en moi et autour de moi.**
+
+J'aimerais partager avec vous ces pratiques qui m'ont fait et qui continuent de me faire beaucoup de bien.
+
+Ce stage s'enrichi au fil de mes explorations.
+
+Au fur et à mesure : je gagne en **acceptation**, en **lâcher-prise**, en **gratitude** et en **mieux-être**.
+
+Au fil du temps.
+
+Car comme le disait Jean Marlieu, instituteur et poète merveilleux dont les mots me nourrissent chaque fois que je les lis : "*Les années passent, me révèlent. Mon visage s'affirme sous la pluie fine des jours qui vient vers nous sur ses milliers, de pas agiles."*
+
+## **Gallerie photo des stages précédents**
+
+![](../images/67c6bfafd9c49_PhotoStageEcologieinterieureMai2021aAllexsmall.JPG)
+
+![](../images/67c6bff659b40_PhotoStageEcologieinterieureMai2021aAllex1small.JPG)
+
+![](../images/67c6c01018af5_PhotoStageEcologieinterieureMai2021aAllex2small.JPG)
+
+![](../images/67c6c0728ce0a_photosoireeJRAflouteesmall.jpg)
+
+[RECEVOIR LES DATES DES PROCHAINS STAGES](#row-1f461f8c)
+
+## **Questions fréquentes**
+
+* **Faut-il avoir déjà pratiqué la méditation ou le travail émotionnel pour participer ?**  
+    
+  Non, ce stage est ouvert à toutes et tous, que tu sois débutant·e ou déjà initié·e. Chaque pratique est expliquée et adaptée à ton niveau, dans un cadre bienveillant et respectueux de ton rythme
+
+* **Que dois-je apporter pour le stage ?**  
+    
+  Privilégie des **vêtements confortables**, une **gourde**, un **carnet et un stylo** si tu veux noter tes prises de conscience, idéalement un **tapis de yoga** (ou équivalent) si tu en as un et une **petite couverture** ou un pled pour les moments de relaxation.
+
+* **Y a-t-il des contre-indications à la pratique ?**  
+    
+  Ce stage implique des pratiques corporelles et émotionnelles. On peux toujours adapter la pratique et l'intensité de la pratique à ta situation particulière :-). Si tu as des antécédents de troubles psychiques (dépression sévère, troubles dissociatifs, psychoses...) ou des conditions médicales particulières, merci de me contacter en amont.
+
+* **Le stage inclut-il des repas et l’hébergement ?**  
+  Oui les repas et l’hébergement sont possibles. Au moment de l'inscription, merci de me préciser ta demande.
+
+* **Comment se déroule une journée type de stage ?**  
+    
+  Chaque journée alterne entre : 🌀 Des pratiques de bien-être corporel et émotionnel (mouvements spontanés, respiration, auto-massage, coaching...) 🌿 Des temps de partage et d’intégration 🧘‍♂️ Des moments de relaxation et de méditation 🎭 Des explorations en groupe et en individuel Le programme est conçu pour offrir un équilibre entre pratique, intégration et repos.
+
+* **Puis-je venir si je suis introverti.e ou si j’ai du mal avec les interactions de groupe ?**   
+    
+  Oui ! Chacun·e participe à son rythme et dans le respect de ses besoins. Ce stage invite à un travail personnel en profondeur, et il est tout à fait possible d’expérimenter les pratiques sans pression sociale.
+
+* **Que se passe-t-il après le stage ?**  
+    
+  L’expérience ne s’arrête pas là ! Tu repartiras avec des outils concrets que tu pourras utiliser dans ton quotidien. Et si tu ressens le besoin d’un suivi, nous pourrons échanger sur la meilleure façon de poursuivre ton cheminement. Tu auras aussi accès à un groupe de communication et d'entraide émotionnelle avec les autres participants du stages.
+
+* **Quels sont les horaires de début et de fin de stage ?**  
+    
+  Pour la plupart des stages, début le Samedi à 9h, fin le lendemain Dimanche à 16h30.
+
+* **Comment m'inscrire ?**  
+    
+  L’inscription se fait sur ma [page de contact](contact.html). Une fois ton inscription confirmée, je t’enverrai toutes les informations pratiques pour bien préparer ton stage.
+
+## **Souhaites-tu être informé·e de l'actualité**
+
+## **et des prochaines dates de ce stage ?**
+
+RECEVOIR LES DATES & INFOS
+
+[Mentions légales](mentions-legales.html) • [Politique de confidentialité](politique-de-confidentialite.html) • [CGV](cgv.html)
+
+Les pratiques proposées relèvent du bien-être et de l’accompagnement psycho-corporel.  
+Elles ne se substituent pas à un suivi médical.

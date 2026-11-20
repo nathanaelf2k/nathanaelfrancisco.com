@@ -6,6 +6,8 @@ description: Découvre comment l’automassage du haut des cuisses libère le ba
 
 # Automassage des cuisses : libérer le bassin, le psoas, apaiser le stress et retrouver la sécurité intérieure
 
+[[VIDEO:https://www.youtube.com/shorts/nbC5-\_d6-vM]]
+
 🌿 **Une séance complète d’automassage profond des cuisses (15 min)** est disponible dans l’espace privé “Ressources Bien-Être”.
 
 [👉 En savoir plus sur la Tribu & les Ressources Bien-Être](../ressources-bien-etre.html)

@@ -6,6 +6,8 @@ description: La gratitude est un outil simple de régulation émotionnelle. Déc
 
 # La gratitude : un outil simple pour réguler le système nerveux et apaiser l’état intérieur
 
+[[VIDEO:https://www.youtube.com/shorts/DGRafkZHYKs]]
+
 🌿 **Une séance complète guidée sur la gratitude** est disponible dans l’espace privé “Ressources Bien-Être”.
 
 [👉 En savoir plus sur la Tribu & les Ressources Bien-Être](../ressources-bien-etre.html)

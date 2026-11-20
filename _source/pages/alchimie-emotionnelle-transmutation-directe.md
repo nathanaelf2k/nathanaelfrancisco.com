@@ -28,6 +28,8 @@ Tous les mammifères disposent de cette fonction pour intégrer et libérer les 
 
 ### **Exemple : Vidéo d'un impala sauvage qui libère ses émotions**
 
+[[VIDEO:https://www.youtube.com/watch?v=-QgglTik6G4]]
+
 L'impala est d'abord choqué, il est en état de sidération, comme mort.
 
 Lorsque le danger s'éloigne : il respire, puis il tremble son émotion jusqu'à ce qu'elle passe. Puis il repart et reprend le cours de sa vie, normalement.
@@ -77,6 +79,8 @@ C'est être **présent comme pendant une méditation**. Tu deviens le témoin, l
 *Attention ça peut être impressionnant de me voir me tordre dans tous les sens pendant quelques minutes mais tout va bien, mon émotion s'apaise et se libère. On peut aussi se dire que j'exagère et que je fais semblant, ce n'est pourtant pas le cas, j'en parle à la fin de la vidéo (à 3)*
 
 *NB :Tu peux accélerer la vidéo en x1,5 ou x2 si tu préfères.*
+
+[[VIDEO:https://youtu.be/\_MOv0VzKsao]]
 
 **Et si mon émotion ne se transmute pas ?**
 
