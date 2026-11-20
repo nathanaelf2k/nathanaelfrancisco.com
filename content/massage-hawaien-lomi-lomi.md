@@ -53,6 +53,12 @@ Une seule séance peut déjà beaucoup. Certaines personnes choisissent un massa
 </div>
 </div>
 
+## Ils et elles l'ont reçu
+
+{{temoignages:Martine R.|Anne T.|Cécilia C.}}
+
+[Lire tous les témoignages](/temoignages)
+
 ## Questions fréquentes
 
 ### Est-ce remboursé ?

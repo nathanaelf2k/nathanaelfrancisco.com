@@ -50,14 +50,8 @@ Je propose aussi le **massage hawaïen Lomi Lomi** : une séance de 2 heures, de
 
 Quelques mots de personnes qui sont passées entre mes mains.
 
-<div class="temoignages">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/67575cd1a266b_20241201Berenice.png" width="530" height="379" loading="lazy" alt="Témoignage de Bérénice">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/67575bd928582_20241206CelineD..png" width="530" height="227" loading="lazy" alt="Témoignage de Céline D.">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/67575c31339fd_20241206NathalieG..png" width="530" height="147" loading="lazy" alt="Témoignage de Nathalie G.">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/675bbebe95412_Laetitia.png" width="510" height="131" loading="lazy" alt="Témoignage de Laetitia">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/675bbecb4baee_Isabelle.png" width="510" height="331" loading="lazy" alt="Témoignage d'Isabelle">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/675bbe3106ea4_Nico.png" width="1080" height="195" loading="lazy" alt="Témoignage de Nico">
-<img src="https://d1yei2z3i6k35z.cloudfront.net/10484051/675bbe5c38c55_JL.png" width="1080" height="329" loading="lazy" alt="Témoignage de JL">
-</div>
+{{temoignages:Témoignage anonyme|Céline D.|Zena R.|Clark K.}}
+
+[Lire tous les témoignages](/temoignages)
 
 Tu habites loin de Die ? Je propose aussi la [thérapie psycho-corporelle en ligne](/therapie-psycho-corporelle).

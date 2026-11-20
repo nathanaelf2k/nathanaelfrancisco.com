@@ -60,22 +60,37 @@ education-somatique
 ressources-bien-etre/ecologie-interieure-trouver-ta-propre-voie
 """.split()
 
+THEMES = [
+    ("emotions", "Émotions et libération émotionnelle", """comment-fonctionnent-les-emotions alchimie-emotionnelle-transmutation-directe
+        alchimie-emotionnelle-le-scenario-de-guerison ressources-bien-etre/gratitude-reguler-systeme-nerveux
+        ressources-bien-etre/yoga-du-rire-emotions le-travail-the-work-byron-katie ressources-bien-etre/pourquoi-je-mange-trop
+        ressources-bien-etre/dialogue-imago-guide-pratique"""),
+    ("deprime", "Déprime et dépression", """surmonter-la-depression difference-tristesse-fatigue-depression perte-de-plaisir-anhedonie-depression
+        biais-negativite-depression-perception-realite et-si-ta-deprime-ton-manque-denergie-actuels-etaient-des-cadeaux
+        il-existe-tellement-de-plaisirs-dans-la-vie"""),
+    ("corps", "Corps, mouvement et massage", """mouvements-spontanes-exercices-tre-trauma-releasing-exercices mouvement-regenerateur-katsugen-undo
+        education-somatique rsft-flexibilite-resistance-qualites-profondes ressources-bien-etre/automassage-cuisses
+        ressources-bien-etre/transe-comment-entrer-en-transe article-massage-hawaien-lomi-lomi fight-club"""),
+    ("sens", "Sens, chemin intérieur et thérapie", """ressources-bien-etre/mission-de-vie-quete-de-sens-vide-existentiel creation-de-realite
+        therapie-et-non-dualite ressources-bien-etre/les-5-corps-carte-experience-humaine ecologie-interieure-pourquoi
+        ressources-bien-etre/ecologie-interieure-trouver-ta-propre-voie ressources-bien-etre/comment-trouver-therapeute-qui-me-convienne
+        integrer-seance-stage-therapeutique souvenirs-ecrans je-reviens-de-cuba"""),
+]
+TITRES = {
+    "/surmonter-la-depression": "Surmonter la dépression : le guide pour en sortir, étape par étape | Nathanaël Francisco",
+}
+DESCRIPTIONS = {
+    "/surmonter-la-depression": "Traiter et guérir la dépression : les étapes essentielles, des réflexions et des actions concrètes à appliquer dans tous les domaines de ta vie.",
+}
+THEME_DE = {"/" + u: (cle, nom) for cle, nom, liste in THEMES for u in liste.split()}
+
 # Pages reprises du site d'origine, avec leurs retouches.
 PAGES_SOURCE = {
-    "therapie-psycho-corporelle": dict(
-        h1="Thérapie psycho-corporelle en ligne",
-        sous_titre="Et à Die, dans la Drôme. Pour traverser le stress, l'anxiété, la déprime et les blocages émotionnels, par le corps.",
-        fil=("Séances en ligne", None),
-        couper_avant="Apaiser le stress",
-        couper_apres="## Thérapie psycho-corporelle • Libération",
-        remplacer=[("👉 *Découvrir mon approche et les méthodes que j’utilise*", "[Découvrir mon approche et les méthodes que j’utilise](/a-propos)")],
-    ),
     "a-propos": dict(
         h1="Bonjour, je suis Nathanaël Francisco",
         sous_titre="Thérapeute psycho-corporel, je t'accompagne pour libérer les difficultés émotionnelles et les blocages.",
         couper_avant="![](../images/67c72e044f00b_0.ProfilePicNathanael.jpg)",
     ),
-    "temoignages": dict(h1="Témoignages", sous_titre="Ce que disent les personnes que j'ai accompagnées."),
     "mentions-legales": dict(
         h1="Mentions légales",
         remplacer=[
@@ -129,6 +144,24 @@ MENU = [
 SIGLES = {"TRE", "RSFT", "IFS", "BBTRS", "RDV", "CGV", "SIRET", "OVH", "DIE", "DRÔME"}
 
 images_utilisees = set()
+TEMOIGNAGES = json.loads((Path(__file__).resolve().parent.parent / "content" / "temoignages.json").read_text(encoding="utf-8"))
+
+
+def carte_temoignage(t):
+    source = f' <span>· {html.escape(t["source"])}</span>' if t.get("source") else ""
+    return (f'<figure class="temoignage"><blockquote><p>{html.escape(t["texte"])}</p></blockquote>'
+            f'<figcaption>{html.escape(t["nom"])}{source}</figcaption></figure>')
+
+
+def inserer_temoignages(texte):
+    def remplace(m):
+        utilises, cartes = set(), []
+        for nom in m.group(1).split("|"):
+            for i, t in enumerate(TEMOIGNAGES):
+                if t["nom"] == nom.strip() and i not in utilises:
+                    utilises.add(i); cartes.append(carte_temoignage(t)); break
+        return "\n".join(cartes)
+    return re.sub(r"\{\{temoignages:([^}]+)\}\}", remplace, texte)
 
 
 # ---------- outils ----------
@@ -242,6 +275,7 @@ def image_md(alt, nom):
 
 
 def md_vers_html(texte):
+    texte = inserer_temoignages(texte)
     h = markdown.markdown(texte, extensions=["extra", "sane_lists"])
     h = h.replace("<img ", '<img loading="lazy" ')
     return h
@@ -392,19 +426,37 @@ def construire():
         if nom not in ("consulting", "jeux-de-relations-authentiques", "atelier-ecologie-interieure-die"):
             pages_sitemap.append(url)
 
+    # Page témoignages
+    groupes = [("therapie", "Thérapie et accompagnement"), ("soin", "Soins à Die"), ("massage", "Massage Lomi Lomi")]
+    corps_t = '<p class="chapeau">Des mots reçus après une séance, un soin ou un massage.</p>'
+    for cle, titre in groupes:
+        cartes = "".join(carte_temoignage(t) for t in TEMOIGNAGES if t["type"] == cle)
+        corps_t += f'<h2>{titre}</h2><div class="liste-temoignages">{cartes}</div>'
+    corps_t += '<div class="encadre"><h2>Et toi ?</h2><p>On peut commencer par un appel découverte gratuit, pour sentir si c\'est juste pour toi.</p><div class="actions"><a class="bouton" href="/appel-decouverte">Réserver un appel découverte</a></div></div>'
+    page = bandeau("Témoignages", "Ce que disent les personnes que j'ai accompagnées.") + \
+        f'<div class="page"><article class="contenu" style="max-width:var(--large)">{corps_t}</article></div>'
+    ecrire("/temoignages", gabarit("/temoignages", "Témoignages – Thérapie, soins et massage Lomi Lomi | Nathanaël Francisco",
+                                    "Avis et témoignages sur les séances de thérapie psycho-corporelle, les soins à Die et le massage Lomi Lomi de Nathanaël Francisco.", page))
+    pages_sitemap.append("/temoignages")
+
     # Articles
     fiches = []
     for chemin_url in ARTICLES:
         fichier = SOURCE / "pages" / (chemin_url.replace("/", "__") + ".md")
+        corrige = CONTENU / "articles" / fichier.name
+        if corrige.exists():
+            fichier = corrige  # version retouchée (ton harmonisé, corrections)
         meta, corps = lire_md(fichier)
         m = re.search(r"^# (.+)$", corps, re.M)
         h1 = re.sub(r"\*+", "", m.group(1)).strip() if m else meta.get("titre", chemin_url)
         h1 = casse_phrase(h1)
         corps_html = md_vers_html(nettoyer_source(corps))
         url = "/" + chemin_url
-        desc = meta.get("description") or texte_brut(corps_html)
+        meta["titre"] = TITRES.get(url, meta.get("titre", h1))
+        desc = DESCRIPTIONS.get(url) or meta.get("description") or texte_brut(corps_html)
         img = premiere_image(corps_html)
-        page = bandeau(h1, None, ("Articles", "/posts")) + f'<div class="page"><article class="contenu">{corps_html}{suite_article()}</article></div>'
+        cle, nom_theme = THEME_DE.get(url, ("", "Articles"))
+        page = bandeau(h1, None, (nom_theme, f"/posts#{cle}" if cle else "/posts")) + f'<div class="page"><article class="contenu">{corps_html}{suite_article()}</article></div>'
         ecrire(url, gabarit(url, meta.get("titre", h1), desc, page, img, actif="/posts"))
         fiches.append(dict(url=url, titre=h1, resume=desc, image=img))
         pages_sitemap.append(url)
@@ -418,9 +470,16 @@ def construire():
                        f'<p class="resume">{html.escape(texte_brut(a["resume"], 130))}</p></a></li>')
         return '<ul class="articles">' + "".join(out) + "</ul>"
 
-    tous = list(reversed(fiches))
+    sommaire = "".join(f'<a class="bouton bouton-clair" href="#{cle}">{nom}</a>' for cle, nom, _ in THEMES)
+    sections = ""
+    for cle, nom, _ in THEMES:
+        items = [f for f in fiches if THEME_DE.get(f["url"], ("",))[0] == cle]
+        sections += f'<h2 id="{cle}" class="titre-theme">{nom}</h2>{liste_articles(items)}'
+    sans = [f for f in fiches if f["url"] not in THEME_DE]
+    if sans:
+        sections += f'<h2 class="titre-theme">Autres articles</h2>{liste_articles(sans)}'
     page = (bandeau("Articles", "Émotions, corps, déprime, pratiques : ce que j'apprends en chemin, en accès libre.")
-            + f'<div class="page"><div style="max-width:var(--large);margin:0 auto">{liste_articles(tous)}</div></div>')
+            + f'<div class="page"><div class="page-articles"><nav class="actions sommaire" aria-label="Thèmes">{sommaire}</nav>{sections}</div></div>')
     ecrire("/posts", gabarit("/posts", "Articles – Émotions, corps et bien-être | Nathanaël Francisco",
                              "Articles sur les émotions, la déprime, le corps et les pratiques de libération émotionnelle, par Nathanaël Francisco, thérapeute psycho-corporel.", page, actif="/posts"))
     pages_sitemap.append("/posts")

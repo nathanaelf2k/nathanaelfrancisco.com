@@ -141,6 +141,10 @@ li::marker { color: var(--turquoise); }
 .derniers h2 { margin-top: 0; }
 
 /* Liste d'articles */
+.page-articles { max-width: var(--large); margin: 0 auto; }
+.sommaire { margin-top: 0; }
+.sommaire .bouton { font-size: .9rem; padding: .6rem 1rem; }
+.titre-theme { background: var(--soleil); color: var(--turquoise-fonce); padding: .6rem .9rem; border-radius: 10px; margin: 3rem 0 1.5rem; scroll-margin-top: 5.5rem; }
 .articles { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 1.75rem 2rem; }
 .articles li { margin: 0; }
 .articles a { display: block; text-decoration: none; color: var(--encre); }
@@ -161,6 +165,14 @@ li::marker { color: var(--turquoise); }
 .encadre .telephone { font-family: var(--titre); font-weight: 700; font-size: 1.6rem; margin: 0 0 .3rem; font-variant-numeric: tabular-nums; }
 .encadre .actions { margin-bottom: 0; }
 
+.temoignage { margin: 1.75rem 0; padding: 1.4rem 1.4rem 1.2rem; background: var(--soleil-pale); border-radius: 16px; }
+.temoignage blockquote { margin: 0; padding: 0; border: 0; font-style: normal; }
+.temoignage blockquote p { margin: 0; }
+.temoignage blockquote::before { content: "«"; display: block; font-family: var(--titre); font-weight: 700; font-size: 2.6rem; line-height: .7; color: var(--turquoise-fonce); margin-bottom: .5rem; }
+.temoignage figcaption { margin-top: .8rem; font-family: var(--titre); font-weight: 700; font-size: .95rem; color: var(--turquoise-fonce); }
+.temoignage figcaption span { font-weight: 400; font-style: italic; color: var(--encre-douce); }
+.liste-temoignages { columns: 2 20rem; column-gap: 1.5rem; }
+.liste-temoignages .temoignage { break-inside: avoid; margin: 0 0 1.5rem; }
 .temoignages { columns: 2 18rem; column-gap: 1.5rem; margin: 2rem 0; }
 .temoignages img { break-inside: avoid; margin: 0 0 1.5rem; border: 1px solid var(--trait); border-radius: 10px; }
 
