@@ -254,6 +254,8 @@ def nettoyer_source(corps, opts=None):
     corps = re.sub(r"(?m)^(\*{2,3})([^*\n]{3,70}?)\1\s*$",
                    lambda m: m.group(0) if m.group(2).rstrip().endswith((".", ",", ";", "!", ":")) else "### " + casse_phrase(m.group(2).strip()), corps)
     corps = re.sub(r"(?m)^((?:[\U0001F300-\U0001FAFF\u2600-\u27BF]\ufe0f?)\s+[^\n.!:;]{3,60})$", r"### \1", corps)
+    # icônes de réseaux sociaux héritées de l'ancien site
+    corps = re.sub(r"\[?!\[[^\]]*\]\([^)]*(?:facebook|instagram|youtube|linkedin)[^)]*\.(?:png|jpe?g|webp)\)(?:\]\([^)]*\))?", "", corps, flags=re.I)
     corps = re.sub(r"\[\[VIDEO:([^\]]+)\]\]", lambda m: video_html(m.group(1)), corps)
     corps = re.sub(r"\]\(([^)\s]+)\)", lambda m: "](" + adresse_lien(m.group(1)) + ")", corps)
     corps = re.sub(r"\(/images/", "(../images/", corps)
@@ -282,9 +284,14 @@ def md_vers_html(texte):
     return h
 
 
+PAS_VIGNETTE = re.compile(r"(profil|profile|photonath|idpic|logo|facebook|instagram|youtube|linkedin|whatsapp)", re.I)
+
+
 def premiere_image(html_txt):
-    m = re.search(r'<img[^>]+src="(/images/[^"]+)"', html_txt)
-    return m.group(1) if m else None
+    for src in re.findall(r'<img[^>]+src="(/images/[^"]+)"', html_txt):
+        if not PAS_VIGNETTE.search(src):
+            return src
+    return None
 
 
 def texte_brut(html_txt, n=170):
