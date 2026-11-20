@@ -138,6 +138,7 @@ MENU = [
     ("En ligne", "/therapie-psycho-corporelle"),
     ("Stages", "/stages"),
     ("Articles", "/posts"),
+    ("Ressources", "/ressources-bien-etre"),
     ("Qui suis-je", "/a-propos"),
 ]
 
@@ -526,6 +527,13 @@ def construire():
     <h2 id="titre-derniers">À lire pour commencer</h2>
     {liste_articles(choix)}
     <div class="actions"><a class="bouton bouton-clair" href="/posts">Tous les articles</a></div>
+  </div>
+</section>
+<section class="tribu" aria-labelledby="titre-tribu">
+  <div class="tribu-interieur">
+    <h2 id="titre-tribu">Rejoins la Tribu</h2>
+    <p>Des pratiques guidées, des vidéos et des exercices simples pour prendre soin de toi par le corps, gratuitement. Et les dates des prochains stages.</p>
+    <div class="actions"><a class="bouton" href="/ressources-bien-etre">Accéder aux ressources gratuites</a></div>
   </div>
 </section>"""
     ecrire("/", gabarit("/", "Nathanaël Francisco – Thérapie psycho-corporelle à Die (Drôme) et en ligne",

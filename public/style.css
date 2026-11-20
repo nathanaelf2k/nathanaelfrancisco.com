@@ -46,13 +46,13 @@ a:hover { text-decoration-thickness: 2px; }
 .marque { font-family: var(--titre); font-weight: 700; font-size: 1.15rem; line-height: 1.1; color: var(--turquoise-fonce); text-decoration: none; letter-spacing: -.01em; }
 .marque small { display: block; font-weight: 400; font-style: italic; font-size: .78rem; color: var(--encre); letter-spacing: 0; margin-top: .15rem; }
 .menu { font-family: var(--titre); font-weight: 500; font-size: .95rem; }
-.menu ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 1.4rem; align-items: center; }
+.menu ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 1.15rem; align-items: center; }
 .menu a { color: var(--encre); text-decoration: none; }
 .menu a:hover, .menu a[aria-current="page"] { color: var(--turquoise-fonce); text-decoration: underline; text-decoration-thickness: 2px; }
 .menu .menu-contact a { background: var(--turquoise-fonce); color: #fff; padding: .5rem 1rem; border-radius: 999px; text-decoration: none; }
 .menu .menu-contact a:hover { background: var(--encre); color: #fff; }
 .menu-mobile { display: none; }
-@media (max-width: 860px) {
+@media (max-width: 960px) {
   .menu { display: none; }
   .menu-mobile { display: block; position: relative; font-family: var(--titre); }
   .menu-mobile summary { list-style: none; cursor: pointer; font-weight: 700; color: var(--turquoise-fonce); padding: .45rem .9rem; border: 2px solid var(--turquoise-fonce); border-radius: 999px; font-size: .95rem; }
@@ -139,6 +139,14 @@ li::marker { color: var(--turquoise); }
 .derniers { background: var(--soleil-pale); padding: clamp(3rem, 8vw, 5rem) 1.25rem; }
 .derniers-interieur { max-width: var(--large); margin: 0 auto; }
 .derniers h2 { margin-top: 0; }
+
+/* Bandeau Tribu */
+.tribu { background: var(--turquoise-fonce); color: #fff; padding: clamp(3rem, 8vw, 5rem) 1.25rem; }
+.tribu-interieur { max-width: var(--mesure); margin: 0 auto; }
+.tribu h2 { color: var(--soleil); margin-top: 0; }
+.tribu p { font-size: 1.15rem; }
+.tribu .bouton { background: var(--soleil); border-color: var(--soleil); color: var(--encre); }
+.tribu .bouton:hover { background: #fff; border-color: #fff; color: var(--encre); }
 
 /* Liste d'articles */
 .page-articles { max-width: var(--large); margin: 0 auto; }
